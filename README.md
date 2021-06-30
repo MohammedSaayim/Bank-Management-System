@@ -1,4 +1,4 @@
-# Bank Management System
+# Credit Card Generator & Validator in C++
 This project contains the following features- 
 <ol>
 1.Credit card number validator <br/>
